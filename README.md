@@ -1,2 +1,2 @@
 # Pencarian-Pola-Pembelian-Jilbab-Menggunakan-Algortima-Apriori
-Pencarian kecenderungan pembeli menggunakan algoritma Apriori dengan studi kasus data pembelian jilbab.
+Pencarian kecenderungan pembeli menggunakan algoritma Apriori dengan studi kasus data pembelian jilbab. Algoritma apriori merupakan salah satu algoritma klasik data mining. Algoritma apriori digunakan agar komputer dapat mempelajari aturan asosiasi, mencari pola hubungan antar satu atau lebih item dalam suatu dataset. Algoritma apriori banyak digunakan pada data transaksi atau biasa disebut market basket.
